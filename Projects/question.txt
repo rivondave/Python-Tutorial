@@ -1,1 +1,13 @@
 
+Tasks
+
+1.) Python program that takes in a user's birth year and predicts user's age
+
+2.) Python program to convert  Celsius to Fahrenheit
+
+3.) Python program to convert dollar to naira
+
+4.) Python program to calculate the area of a circle
+(Hint: input parameter should be radius)
+
+5.) Python program to calculate the area of a rectangle (Hint: input parameter should be length and breadth of rectangle)
